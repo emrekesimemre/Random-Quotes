@@ -1,0 +1,25 @@
+body{
+    background-color: purple;
+
+}
+
+.box{
+    width: 50%;
+    height: auto;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+
+.content{
+    background-color: white;
+    height: auto;
+    border-radius: 15px 0;
+    padding: 50px;
+}
+
+.button-gruoup{
+    text-align: right;
+    margin-top: 10px;
+    
+}
